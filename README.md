@@ -1,7 +1,7 @@
 # EXAPUNKS Syntax
 
-[![License](https://img.shields.io/github/license/jwortmann/exapunks-syntax)](https://github.com/jwortmann/exapunks-syntax/blob/master/LICENSE)
-[![Version](https://img.shields.io/github/v/tag/jwortmann/exapunks-syntax?label=version)](https://github.com/jwortmann/exapunks-syntax/tags)
+[![License](https://img.shields.io/github/license/cafuneandchill/exapunks-syntax)](https://github.com/cafuneandchill/exapunks-syntax/blob/master/LICENSE)
+[![Version](https://img.shields.io/github/v/tag/cafuneandchill/exapunks-syntax?label=version)](https://github.com/cafuneandchill/exapunks-syntax/tags)
 
 A package for [Sublime Text](https://www.sublimetext.com/) that provides syntax highlighting for the assembly language used in the game [EXAPUNKS](http://www.zachtronics.com/exapunks/).
 
@@ -21,4 +21,4 @@ The following image shows a preview for the default color schemes *Monokai*, *Si
 ![Preview](https://i.imgur.com/XXpRk8u.png)
 
 Some of the syntax rules were updated to follow Sublime Text's scope naming guidelines and assign more specific scopes.
-Depending on the chosen color scheme, highlighting colors might have changed when compared to a [previous version](https://github.com/jwortmann/exapunks-syntax/tree/legacy) of the syntax definition file.
+Depending on the chosen color scheme, highlighting colors might have changed when compared to a [previous version](https://github.com/cafuneandchill/exapunks-syntax/tree/legacy) of the syntax definition file.
