@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/jwortmann/exapunks-syntax)](https://github.com/jwortmann/exapunks-syntax/blob/master/LICENSE)
 [![Version](https://img.shields.io/github/v/tag/jwortmann/exapunks-syntax?label=version)](https://github.com/jwortmann/exapunks-syntax/tags)
 
-A package for [Sublime Text 3](https://www.sublimetext.com/) that provides syntax highlighting for the assembly language used in the game [EXAPUNKS](http://www.zachtronics.com/exapunks/).
+A package for [Sublime Text](https://www.sublimetext.com/) that provides syntax highlighting for the assembly language used in the game [EXAPUNKS](http://www.zachtronics.com/exapunks/).
 
 ## Installation
 
