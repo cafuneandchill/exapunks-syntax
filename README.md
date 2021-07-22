@@ -7,13 +7,11 @@ A package for [Sublime Text](https://www.sublimetext.com/) that provides syntax 
 
 ## Installation
 
-Copy the files [Exapunks.sublime-syntax](https://raw.githubusercontent.com/jwortmann/exapunks-syntax/master/Exapunks.sublime-syntax) and [Exapunks.sublime-settings](https://raw.githubusercontent.com/jwortmann/exapunks-syntax/master/Exapunks.sublime-settings) into a folder in the packages directory of Sublime Text, e.g. your User package.
-To find the location of your User package, choose `Preferences > Browse Packages...` within Sublime Text and open the folder `User`.
+Clone or download the repository into the Packages directory of your Sublime Text install.
+To find the location of your Packages directory, choose `Preferences > Browse Packages...` within Sublime Text.
 
 By default, syntax highlighting will be applied for files with the extension `.exa` or `.exapunks`.
-Alternatively you can manually select *User/EXAPUNKS* under `View > Syntax` from the menu or add the expression `NOTE EXAPUNKS` as a first line into your source code to automatically apply the EXAPUNKS syntax, whenever that file is opened.
-
-To enable code completions, copy the file [Exapunks.sublime-completions](https://raw.githubusercontent.com/jwortmann/exapunks-syntax/master/Exapunks.sublime-completions).
+Alternatively you can manually select *EXAPUNKS* under `View > Syntax` from the menu. Source code files containing `NOTE EXAPUNKS` as a first line are automatically assumed to have EXAPUNKS syntax.
 
 ## Preview
 
